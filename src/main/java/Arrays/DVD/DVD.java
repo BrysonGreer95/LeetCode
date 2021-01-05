@@ -1,4 +1,4 @@
-package Arrays.DVD;
+package main.java.Arrays.DVD;
 
 // To run: in the correct directory, execute javac DVD.java and then java DVD.java
 // A simple definition for a DVD.

@@ -1,3 +1,4 @@
+package main.java.Arrays.SquaresOfSortedArray;
 
 /* Given an integer array nums sorted in non-decreasing order,
 return an array of the squares ofeach number sorted in non-decreasing order. */

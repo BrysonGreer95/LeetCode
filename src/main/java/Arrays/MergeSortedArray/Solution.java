@@ -1,3 +1,5 @@
+package main.java.Arrays.MergeSortedArray;
+
 import java.util.Arrays;
 
 class Solution {
